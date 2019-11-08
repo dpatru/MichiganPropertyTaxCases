@@ -97,7 +97,7 @@ MCR 2.625(A)(2) directs that costs for frivolous claims are awarded under MCL 60
 MCR 2.114 reads, in part:
 
 (A) This rule applies to all pleadings, motions, affidavits, and other papers provided for by these rules. See MCR 2.113(A). In this rule, the term "document" refers to all such papers.
-* * *
+ * * *
 (D) The signature of an attorney or party, whether or not the party is represented by an attorney, constitutes a certification by the signer that
 (1) he or she has read the document;
 (2) to the best of his or her knowledge, information, and belief formed after reasonable inquiry, the document is well grounded in fact and is warranted by existing law or a good-faith argument for the extension, modification, or reversal of existing law; and
