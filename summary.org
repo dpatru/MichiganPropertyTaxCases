@@ -13,7 +13,20 @@ We preface our decision here with the recognition that there is no vested right 
 ** MICH. PROPERTIES v. Meridian Twp., 817 NW 2d 548 - Mich: Supreme Court 2012
 Next, in Toll Northville Limited Partnership v. Northville Township, we address whether the Tax Tribunal has the authority to reduce an unconstitutional increase in the taxable value of property when the erroneous taxable value was not challenged in the year of the increase.[2] We hold that the Tax Tribunal does have the authority to reduce an unconstitutional previous increase in taxable value for purposes of adjusting a taxable value that was timely challenged in a subsequent year. The Tax Tribunal Act[3] sets forth the Tax Tribunal's jurisdiction.[4] Once its jurisdiction is properly invoked, the Tax Tribunal possesses the same powers and duties as those assigned to a March board of review under the GPTA, including the duty to adjust erroneous taxable values to bring the current tax rolls into compliance with the GPTA. Because the Court of Appeals erroneously held that the Tax Tribunal did not have jurisdiction to review taxable values in years not under appeal, we reverse the Court of Appeals' judgment and remand to that Court to consider Northville Township's remaining issues on appeal regarding the Tax Tribunal's valuation of the properties.
 
+** Hanner v. City of Dearborn Heights, Mich: Court of Appeals 2008
+"If the City fails to abide by the MTT's judgment and remedy the situation, petitioner could file suit in circuit court seeking equitable relief to enforce the MTT's writ, order, or directive. Wikman v Novi, 413 Mich 617, 648; 322 NW2d 103 (1982). Accordingly, the MTT should have considered petitioner's claim on this ground."
+** ACI HOLDINGS, INC. v. TOWNSHIP OF SYLVAN, Mich: Court of Appeals 2008
+MTT does not have jurisdiction to hear fraud cases.
+** Beacon Enterprises, Inc. v. Department of Treasury, Mich: Court of Appeals 2013
+*** re attorney fees and costs
+distinguishing between MCL 600.2591(3)(b) which defines a prevailing party as one who wins on the entire record and MCR 2.114 which makes no mention of "entire record".
 
+"Respondent contends that the Tribunal erred in awarding attorney fees because Enterprises was not the "prevailing party." Respondent cites MCL 600.2591(3)(b), which states that "`[p]revailing party' means a party who wins on the entire record." Respondent contends that Enterprises won the argument about jurisdiction but did not win its argument pertaining to the tax assessment. However, even if it could be argued that the summary-disposition actions pertaining to jurisdiction should not be considered a distinct proceeding for purposes of determining the "prevailing party" under MCL 600.2591, the Tribunal simply did not base its decision exclusively on MCL 600.2591. Indeed, the Tribunal discussed MCR 2.114 extensively in reaching its conclusions. This court rule makes no reference to a party who prevails "on the entire record." Respondent's argument, therefore, is without merit.[4]"
+** SCHOENECKERS, INC. v. Department of Treasury, Mich: Court of Appeals 2014
+
+discussing costs and 4 justifications for awarding them.
+** Kok v. Cascade Charter Tp., 660 NW 2d 389 - Mich: Court of Appeals 2003
+The primary issue before this Court is whether, under Const. 1963, art. 9, § 3, as amended by Proposal A, and M.C.L. § 211.27a(2)(a), respondent was precluded from reappraising the entire property for the 2000 tax year as new construction without regard to the taxable value of the partially completed construction assessed in the 1999 tax year.
 * unpublished decisions
 
 ** JD NORMAN INDUSTRIES v. CITY OF LESLIE, Mich: Court of Appeals 2015
