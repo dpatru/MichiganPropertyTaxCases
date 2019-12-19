@@ -5,6 +5,12 @@ JD Norman Industries v. City of Leslie
 ** Adjust for time
 Sullivan v. City of Grosse Pointe Farms
 
+* cases on costs
+[[Lanzo Construction v. City of Southfield, Mich: Court of Appeals 2007]]
+[[SCHOENECKERS, INC. v. Department of Treasury, Mich: Court of Appeals 2014]]
+[[Beacon Enterprises, Inc. v. Department of Treasury, Mich: Court of Appeals 2013]]
+
+
 * published decisions
 
 ** Magreta v. Ambassador Steel Co., 158 NW 2d 473 - Mich: Supreme Court 1968
@@ -22,9 +28,7 @@ MTT does not have jurisdiction to hear fraud cases.
 distinguishing between MCL 600.2591(3)(b) which defines a prevailing party as one who wins on the entire record and MCR 2.114 which makes no mention of "entire record".
 
 "Respondent contends that the Tribunal erred in awarding attorney fees because Enterprises was not the "prevailing party." Respondent cites MCL 600.2591(3)(b), which states that "`[p]revailing party' means a party who wins on the entire record." Respondent contends that Enterprises won the argument about jurisdiction but did not win its argument pertaining to the tax assessment. However, even if it could be argued that the summary-disposition actions pertaining to jurisdiction should not be considered a distinct proceeding for purposes of determining the "prevailing party" under MCL 600.2591, the Tribunal simply did not base its decision exclusively on MCL 600.2591. Indeed, the Tribunal discussed MCR 2.114 extensively in reaching its conclusions. This court rule makes no reference to a party who prevails "on the entire record." Respondent's argument, therefore, is without merit.[4]"
-** SCHOENECKERS, INC. v. Department of Treasury, Mich: Court of Appeals 2014
 
-discussing costs and 4 justifications for awarding them.
 ** Kok v. Cascade Charter Tp., 660 NW 2d 389 - Mich: Court of Appeals 2003
 The primary issue before this Court is whether, under Const. 1963, art. 9, § 3, as amended by Proposal A, and M.C.L. § 211.27a(2)(a), respondent was precluded from reappraising the entire property for the 2000 tax year as new construction without regard to the taxable value of the partially completed construction assessed in the 1999 tax year.
 * unpublished decisions
@@ -82,10 +86,6 @@ Petitioner filed an exception to the referee's proposed opinion and judgment, in
 
 Nevertheless, "[t]he Tax Tribunal is under a duty to apply its expertise to the facts of a case to determine the appropriate method of arriving at the true cash value of property, utilizing an approach that provides the most accurate valuation under the circumstances." Jones & Laughlin Steel Corp v City of Warren, 193 Mich App 348, 353; 483 NW2d 416 (1992). "Regardless of the approach selected, the value determined must represent the usual price for which the subject property would sell," and "[t]he three most common approaches to valuation are the capitalization-of-income approach, the sales-comparison or market approach, and the cost-less-depreciation approach." Id. (citation omitted). "[T]he tribunal is not bound to accept either of the parties' theories of valuation. It may accept one theory and reject the other, it may reject both theories, or it may utilize a combination of both in arriving at its determination." Id. at 356. Further, "[t]he tribunal may not automatically accept a respondent's assessment, but must make its own findings of fact and arrive at a legally supportable true cash value." Id. at 355. "The Tribunal may adopt the assessed valuation on the tax rolls as its independent finding of true cash value when competent and substantial evidence supports doing so, as long as it does not afford the original assessment presumptive validity." Pontiac Country Club v Waterford Twp, 299 Mich App 427, 435-436; 830 NW2d 785 (2013).
 
-
-***
-
-
 ** VANCO I LLC v. City of Grand Rapids, Mich: Court of Appeals 2014
 
 *** holding
@@ -98,14 +98,29 @@ We conclude that the Tribunal did not err when it corrected the name on the peti
 Finally, Parry urges reversal because the assessment exceeds the property's TCV by 50 percent. Parry hinges this entire argument on the two prior sales of the property for $1.00, and concludes that any finding that the value increased by 29,000 times in two years establishes, ipso facto, that the Tribunal erred. This argument is doubly flawed.
 
 First, it presupposes that prior sales history is conclusive of TCV. It is not. See MCL 211.27(6) ("the purchase price paid in a transfer of property is not the presumptive true cash value of the property transferred"); Great Lakes Div of Nat'l Steel Corp, 227 Mich App at 405 ("the sales price of a piece of property is not conclusive evidence of true cash value, even when the sale is for the property that is the subject of the assessment"). Second, Parry's claim assumes that the Tribunal was bound to accept his valuation of the property at $1.00 (the only valuation evidence Parry offered), over the Township's conflicting assessment. The fact that the Tribunal implicitly rejected Parry's valuation is not error, however, where its determination of TCV was otherwise supported by the competent, material and substantial evidence noted previously. The Tribunal did not err.
-** LANZO CONSTRUCTION v. City of Southfield, Mich: Court of Appeals 2007
+
+** Lanzo Construction v. City of Southfield, Mich: Court of Appeals 2007
+
+Are sanctions mandatory upon a finding of violation of MCR 2.114(D)? Yes, per MCR 2.114(E)
+
+MCR 2.114 . . .
+(D) The signature of an attorney or party, whether or not the party is represented by an attorney, constitutes a certification by the signer that
+(1) he or she has read the document;
+(2) to the best of his or her knowledge, information, and belief formed after reasonable inquiry, the document is well grounded in fact and is warranted by existing law or a good-faith argument for the extension, modification, or reversal of existing law; and
+(3) the document is not interposed for any improper purpose, such as to harass or to cause unnecessary delay or needless increase in the cost of litigation.
+
+*** quotes
 MCR 2.114(E) provides the following
 
 If a document is signed in violation of this rule, the court, on the motion of a party or on its own initiative, shall impose upon the person who signed it, a represented party, or both, an appropriate sanction, which may include an order to pay to the other party or parties the amount of the reasonable expenses incurred because of the filing of the document, including reasonable attorney fees. The court may not assess punitive damages.
 Because MCR 2.114(E) states that a court "shall impose" sanctions on a party, its counsel, or both, if it finds that MCR 2.114 was violated, a court has no discretion in determining whether sanctions should be imposed. In re Forfeiture of Cash & Gambling Paraphernalia, 203 Mich App 69, 73; 512 NW2d 49 (1993). When MCR 2.114 is violated, the imposition of sanctions is mandatory. Id.; see also Attorney General v Harkins, 257 Mich App 564, 576; 669 NW2d 296 (2003).
 
 Petitioner argues that MCR 2.114 does not apply to proceedings before the Tax Tribunal because the Tribunal has its own provision, TTR 205.1145, regarding the awarding of costs to a prevailing party. The Tax Tribunal Rules "govern the practice and procedure in all cases and proceedings before the tribunal." TTR 205.1111(1). However, "[i]f an applicable entire tribunal rule does not exist, the 1995 Michigan Rules of Court, as amended, . . . shall govern." TTR 205.1111(4); Signature Villas, LLC v Ann Arbor, 269 Mich App 694, 705; 714 NW2d 392 (2006). TTR 205.1145, like MCR 2.625, addresses the awarding of costs to a prevailing party. The purpose of awarding costs is to reimburse the prevailing party the costs it paid during the course of the litigation. Wells v Dep't of Corrections, 447 Mich 415, 419; 523 NW2d 217 (1994). The purpose of imposing sanctions under MCR 2.114, however, is to "deter parties and attorneys from filing documents or asserting claims and defenses that have not been sufficiently investigated and researched or that are intended to serve an improper purpose." FMB-First Michigan Bank v Bailey, 232 Mich App 711, 723; 591 NW2d 676 (1998). Nothing in TTR 205.1145 or any other Tax Tribunal Rule addresses sanctions. Therefore, because no applicable Tax Tribunal Rule exists regarding sanctions, MCR 2.114 applies to proceedings before the Tax Tribunal. TTR 205.1111(4). Accordingly, because the Tax Tribunal found that petitioner's petition and motion for reconsideration were filed in violation of MCR 2.114(D), the Tax Tribunal erred when it failed to sanction petitioner, its counsel, or both. In re Forfeiture of Cash & Gambling Paraphernalia, supra at 73. We reverse the Tax Tribunal's September 10, 2004 order and all subsequent orders denying respondent's request for costs and attorney fees and remand for a hearing to determine an appropriate sanction.
+
 ** SCHOENECKERS, INC. v. Department of Treasury, Mich: Court of Appeals 2014
+
+discussing costs and 4 justifications for awarding them.
+
 Tax Tribunal Rule (TTR) 145 (2012) (subsequently amended and renumbered TTR 209) provided that the "tribunal may, upon motion or upon its own initiative, allow a prevailing party in a decision or order to request costs." Further, MCL 205.752(1) provides that "[c]osts may be awarded in the discretion of the tribunal." TTR 145 does not provide guidance regarding when costs are appropriate, but we conclude that given the many and serial failures of respondent during the course of this audit, it was not unreasonable for the tribunal to award costs to petitioner. The main question is whether the award of attorney fees as a sanction was authorized and warranted. MCL 205.732(c) provides that the tribunal may grant "other relief or [issue] writs, orders, or directives that it deems necessary or appropriate in the process of disposition of a matter over which it may acquire jurisdiction." However, neither TTR 145 nor MCL 205.752(1) specifically indicates whether attorney fees or other sanctions may be awarded.
 
 MCR 2.625(A)(2) directs that costs for frivolous claims are awarded under MCL 600.2591. That statute provides for awarding "costs and fees," which include "reasonable attorney fees." MCL 600.2591(1)-(2). The intersection of this court rule and statute indicate that the term "costs" may be construed to include attorney fees.
